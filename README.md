@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a PhD candidate in the [Max Planck Research Group NeuroCode](https://schucklab.gitlab.io/), led by Nico Schuck, at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, Germany 👨‍🔬
-I study fast reactivation of task representations in the human brain using fMRI 🧠
+I am a Postdoctoral Reseach Fellow in the [Max Planck Research Group NeuroCode](https://schucklab.gitlab.io/), led by Nico Schuck, at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, Germany 👨‍🔬
+I study fast reactivation of task representations (known as "replay") in the human brain using fMRI 🧠
+I am passionate about open science, computational reproducibility, coding and research data management.
 
 <!--
 **lnnrtwttkhn/lnnrtwttkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
