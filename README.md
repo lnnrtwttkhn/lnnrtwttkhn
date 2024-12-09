@@ -7,7 +7,7 @@ In my scientific work I investigate **fast neural reactivation of task represent
 
 I am also passionate about **computational reproducibility**, **research data management**, **open science** and tools that improve the scientific workflow.
 
-Find out more on my **website at [https://lennartwittkuhn.com/](https://lennartwittkuhn.com/)**
+Find out more on my **website at [https://lennartwittkuhn.com/](https://lennartwittkuhn.com/)**.
 
 
 <!--
